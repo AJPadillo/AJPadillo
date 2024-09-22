@@ -9,9 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+Github!" alt="Typing SVG" />
-  </a>
+ <a href="https://www.linkedin.com/in/ajpadillo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajpadillo" height="30" width="40" /></a>
 </p>
 
 <p align="center">
