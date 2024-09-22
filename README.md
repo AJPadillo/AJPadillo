@@ -1,7 +1,11 @@
 <h1 align="center">Hi! I'm Antonio👩‍💻</h1>
 <h3 align="center">Full-Stack Developer loading...</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+my+Github!" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
