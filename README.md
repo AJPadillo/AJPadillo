@@ -42,8 +42,7 @@
 </p>
 
 <h3 align="left">🌍 Languages:</h3>
- - Español
- - English
+ Español - English
  
  ## 🔥 Streak stats
 
