@@ -47,8 +47,6 @@
  ## 🔥 Streak stats
 
 <p align="center">
-  <a href="https://github.com/AJPadillo/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="clararls's streak" src="http://github-readme-streak-stats.herokuapp.com?user=clararls&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D]"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AJPadillo&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
